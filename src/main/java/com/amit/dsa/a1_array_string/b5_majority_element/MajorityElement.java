@@ -1,4 +1,4 @@
-package com.amit.dsa.a1_array_string.b5_MajorityElement;
+package com.amit.dsa.a1_array_string.b5_majority_element;
 
 import java.util.*;
 
