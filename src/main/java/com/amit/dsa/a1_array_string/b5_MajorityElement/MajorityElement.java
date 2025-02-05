@@ -1,6 +1,6 @@
-package com.amit.dsa.a1_array_string.b4_remove_duplicates2.b3_remove_duplicates;
+package com.amit.dsa.a1_array_string.b5_MajorityElement;
 
-public class RemoveDuplicates2 {
+public class MajorityElement {
     /**
      * Removes duplicates from a sorted array in-place such that each element appears at most twice
      * and returns the new length of the array. The order of the elements is maintained.
